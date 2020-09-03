@@ -1,0 +1,17 @@
+{
+  "name": "discord-login",
+  "version": "1.0.0",
+  "description": "Try to login discord.com/login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hanif",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.1"
+  }
+}
